@@ -1,5 +1,5 @@
 # Tugas2-Widi-Widayanti
-link open source
+1. link open source
 
 https://github.com/facebook
 dibuat oleh facebook, menggunakan bahasa C++, JavaScript, Python, react native digunakan untuk membuat react.
@@ -18,3 +18,4 @@ dbuat oleh Jay Graber, menggunakan bahasa TypeScript, JavaScipt, Handkebars, Ozo
 https://github.com/baidu
 dibuat oleh Robin Li dan Eric Xu, menggunakan bahasa Typescript, JavaScript, CSS, BaikalDB mendukung pembacaan/penulisan data struktural secara real-time secara berurutan dan acak dalam skala petabyte. BaikalDB kompatibel dengan protokol MySQL dan mendukung dialek SQL gaya MySQL, yang dengannya pengguna dapat memigrasikan penyimpanan data mereka dari MySQL ke BaikalDB dengan lancar.
 
+2.https://trello.com/b/w5mqI720/my-board
